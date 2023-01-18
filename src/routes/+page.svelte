@@ -96,7 +96,7 @@
 		</div>
 
 		<div class="credits-container">
-			<div class="credits-header"><span class="underline">Credits</span></div>
+			<div class="credits-header"><span class="custom-underline">Credits</span></div>
 
 			<div class="credits-description">
 				<div class=" credit sanctuary title ">
@@ -117,7 +117,7 @@
 	</div>
 
 	<div class="column">
-		<div class="section-header"><span class="underline">Projects</span></div>
+		<div class="section-header"><span class="custom-underline">Projects</span></div>
 		{#each projects as project}
 			<Project
 				title={project.title}
@@ -134,7 +134,7 @@
 		@apply flex gap-6 flex-col md:flex-row content-start;
 	}
 
-	.underline {
+	.custom-underline {
 		border-bottom: 1px solid currentColor;
 	}
 
