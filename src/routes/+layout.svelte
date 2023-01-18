@@ -2,7 +2,9 @@
 	import '../styles/app.css';
 </script>
 
-<slot />
+<main>
+	<slot />
+</main>
 
 <style lang="postcss">
 	:global(:root) {
