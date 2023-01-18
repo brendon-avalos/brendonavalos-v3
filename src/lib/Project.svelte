@@ -60,25 +60,4 @@
 		flex-grow: 1;
 		max-width: 24rem;
 	}
-
-	.title :before {
-		@apply pr-1; /* Add a little space between text and arrow */
-		content: '\273A';
-	}
-
-	.alright :before {
-		content: '\273B'; /* Unicode hex for &raquo; */
-	}
-
-	.sanctuary :before {
-		content: '\271E'; /* Unicode hex for &raquo; */
-	}
-
-	.thisalso :before {
-		content: '\2750'; /* Unicode hex for &raquo; */
-	}
-
-	.mail :before {
-		content: '\27AA'; /* Unicode hex for &raquo; */
-	}
 </style>

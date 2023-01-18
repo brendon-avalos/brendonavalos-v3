@@ -84,12 +84,13 @@
 		<div class="title"><a href="/">brendon avalos</a></div>
 
 		<div>
-			I'm a digital designer based in Los Angeles. I'm currently a designer at <a
-				target="blank"
-				href="https://fictivekin.com/">Fictive Kin</a
+			I'm a digital designer based in Los Angeles. I'm currently a designer at <span
+				class="no-icon fictive"
+				><a target="blank" href="https://fictivekin.com/">Fictive Kin</a></span
 			>. Before that, I had the pleasure of starting a product design studio from the ground up at
-			<a target="blank" href="https://www.sanctuary.computer/">Sanctuary Computer</a>. And even
-			before that, I helped large companies make digital products.
+			<span class="no-icon sanctuary"
+				><a target="blank" href="https://www.sanctuary.computer/">Sanctuary Computer</a></span
+			>. And even before that, I helped large companies make digital products.
 		</div>
 		<div class="mail title">
 			<a href="mailto:avalos.brendon@gmail.com">avalos.brendon@gmail.com</a>
@@ -100,16 +101,16 @@
 
 			<div class="credits-description">
 				<div class=" credit sanctuary title ">
-					<a target="blank" href="https://www.garden3d.net/">with garden3d</a>
+					with <a target="blank" href="https://www.garden3d.net/">Garden3d</a>
 				</div>
 				<div class="credit alright title  ">
-					<a target="blank" href="https://www.alright.studios/">with alright studios</a>
+					with <a target="blank" href="https://www.alright.studios/">Alright Studios</a>
 				</div>
 				<div class="credit thisalso title  ">
-					<a
+					with <a
 						target="blank"
 						href="https://www.bizjournals.com/portland/news/2019/03/21/portland-agency-instrument-expands-to-brooklyn.html"
-						>with this also</a
+						>This Also</a
 					>
 				</div>
 			</div>
@@ -138,14 +139,8 @@
 		border-bottom: 1px solid currentColor;
 	}
 
-	.section-header {
-	}
-
 	.credits-container {
 		@apply pt-6;
-	}
-
-	.credits-description {
 	}
 
 	.credits-header {
@@ -165,27 +160,6 @@
 	.column {
 		@apply flex flex-col gap-4;
 		flex-grow: 1;
-		max-width: 24rem;
-	}
-
-	.title :before {
-		@apply pr-1; /* Add a little space between text and arrow */
-		content: '\273A';
-	}
-
-	.alright :before {
-		content: '\273B'; /* Unicode hex for &raquo; */
-	}
-
-	.sanctuary :before {
-		content: '\271E'; /* Unicode hex for &raquo; */
-	}
-
-	.thisalso :before {
-		content: '\2750'; /* Unicode hex for &raquo; */
-	}
-
-	.mail :before {
-		content: '\27AA'; /* Unicode hex for &raquo; */
+		max-width: 20rem;
 	}
 </style>
