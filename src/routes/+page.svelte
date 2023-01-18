@@ -75,7 +75,7 @@
 </script>
 
 <svelte:head>
-	<title>Brendon Avalos</title>
+	<title>brendon avalos</title>
 	<meta name="description" content="A designer based in Los Angeles." />
 </svelte:head>
 
