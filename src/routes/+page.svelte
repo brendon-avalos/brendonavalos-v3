@@ -90,7 +90,7 @@
 			>. Before that, I had the pleasure of starting a product design studio from the ground up at
 			<span class="no-icon sanctuary"
 				><a target="blank" href="https://www.sanctuary.computer/">Sanctuary Computer</a></span
-			>. And even before that, I helped large companies make digital products.
+			>. Before that, I helped large companies make digital products.
 		</div>
 		<div class="mail title">
 			<a href="mailto:avalos.brendon@gmail.com">avalos.brendon@gmail.com</a>
