@@ -18,7 +18,7 @@
 		{
 			title: 'Studio Carbon Negative',
 			url: 'https://negative.sanctuary.computer/',
-			description: `A website to celebrate our studio's commitement to carbon neutrality.`,
+			description: `A website to celebrate our studio's commitment to carbon neutrality.`,
 			with: 'sanctuary'
 		},
 		{
