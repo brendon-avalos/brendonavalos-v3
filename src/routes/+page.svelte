@@ -3,6 +3,13 @@
 
 	let projects = [
 		{
+			title: 'Counter Situations',
+			url: 'https://counter-situations.netlify.app/',
+			description:
+				'A funky web archive with a focus on recontextualizing our current way of living.',
+			with: ''
+		},
+		{
 			title: 'Manhattan Hydraulics',
 			url: 'https://www.hydraulics.nyc/',
 			description: 'Getting a new product design studio off the ground.',
@@ -27,13 +34,7 @@
 			description: 'A simple website for the portfolio of a New York based artist.',
 			with: ''
 		},
-		{
-			title: 'Counter Situations',
-			url: 'https://counter-situations.netlify.app/',
-			description:
-				'A funky web archive with a focus on recontextualizing our current way of living.',
-			with: ''
-		},
+
 		{
 			title: 'Seaborne',
 			url: 'https://www.seaborne.nyc/',
