@@ -138,6 +138,7 @@
 
 	.custom-underline {
 		border-bottom: 1px solid currentColor;
+		height: 0px;
 	}
 
 	.credits-container {
@@ -154,7 +155,6 @@
 	}
 
 	.title {
-		line-height: 100%;
 		display: inline;
 	}
 
