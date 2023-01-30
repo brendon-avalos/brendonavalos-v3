@@ -105,7 +105,7 @@
 					with <a target="blank" href="https://www.garden3d.net/">Garden3d</a>
 				</div>
 				<div class="credit alright title  ">
-					with <a target="blank" href="https://www.alright.studios/">Alright Studios</a>
+					with <a target="blank" href="https://alright.studio/">Alright Studios</a>
 				</div>
 				<div class="credit thisalso title  ">
 					with <a
