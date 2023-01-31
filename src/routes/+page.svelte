@@ -142,7 +142,7 @@
 	}
 
 	.credits-container {
-		@apply pt-6;
+		@apply pt-1;
 	}
 
 	.credits-header {
