@@ -9,12 +9,7 @@
 				'A funky web archive with a focus on recontextualizing our current way of living.',
 			with: ''
 		},
-		{
-			title: 'Manhattan Hydraulics',
-			url: 'https://www.hydraulics.nyc/',
-			description: 'Getting a new product design studio off the ground.',
-			with: 'sanctuary'
-		},
+
 		{
 			title: 'Trippin',
 			url: 'https://trippin.world/',
@@ -22,6 +17,20 @@
 				'Website for an independent platform that connects travel, culture and creativity.',
 			with: 'alright'
 		},
+		{
+			title: 'Noom Brand Hub',
+			url: 'https://brand.noom.com/',
+			description:
+				'A website that showcases the personality of the brand and also is a resource for their team.',
+			with: 'alright'
+		},
+		{
+			title: 'Manhattan Hydraulics',
+			url: 'https://www.hydraulics.nyc/',
+			description: 'Getting a new product design studio off the ground.',
+			with: 'sanctuary'
+		},
+
 		{
 			title: 'Studio Carbon Negative',
 			url: 'https://negative.sanctuary.computer/',
