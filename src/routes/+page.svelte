@@ -18,7 +18,7 @@
 			with: 'alright'
 		},
 		{
-			title: 'Noom Brand Hub',
+			title: 'Noom',
 			url: 'https://brand.noom.com/',
 			description:
 				'A website that showcases the personality of the brand and also is a resource for their team.',
