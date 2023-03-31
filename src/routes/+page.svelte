@@ -5,8 +5,7 @@
 		{
 			title: 'Counter Situations',
 			url: 'https://counter-situations.netlify.app/',
-			description:
-				'A funky web archive with a focus on recontextualizing our current way of living.',
+			description: 'A funky web archive with a focus on exploring different realities.',
 			with: ''
 		},
 
@@ -20,7 +19,7 @@
 		{
 			title: 'Noom',
 			url: 'https://brand.noom.com/',
-			description: 'A brand hub that acts a resource for the Noom team.',
+			description: 'A brand hub that for the Noom team.',
 			with: 'alright'
 		},
 		{
