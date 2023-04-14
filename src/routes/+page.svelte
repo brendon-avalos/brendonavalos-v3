@@ -5,8 +5,7 @@
 		{
 			title: 'Post Malone',
 			url: 'https://www.postmalone.com/',
-			description:
-				'A website for the musician Posty to launch a website around their album 12 Carat Toothache.',
+			description: 'A website promoting the artists new album 12 Carat Toothache.',
 			with: 'alright'
 		},
 
