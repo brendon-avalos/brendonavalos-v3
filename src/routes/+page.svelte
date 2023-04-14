@@ -117,9 +117,8 @@
 
 		<div>
 			Hello and welcome to my small corner of the internet. I'm a designer and strategic thinker who
-			enjoys collaborating, learning and laughing with other humans (live, laugh, love... if you
-			feel me). I'm currently living in Los Angeles and clicking away at <span
-				class="no-icon fictive"
+			enjoys collaborating, learning and laughing with other humans (live, laugh, love...if you feel
+			me). I'm currently living in Los Angeles and clicking away at <span class="no-icon fictive"
 				><a target="blank" href="https://fictivekin.com/">Fictive Kin</a></span
 			>. Before that, I had the pleasure of starting a product design studio from the ground up at
 			<span class="no-icon sanctuary"
