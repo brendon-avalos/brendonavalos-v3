@@ -124,7 +124,7 @@
 				><a target="blank" href="https://www.sanctuary.computer/">Sanctuary Computer</a></span
 			>. Before that, I helped large companies make digital products. I've also made music with my
 			friends in
-			<a target="blank" href="https://bboys.bandcamp.com/">B Boys</a>and
+			<a target="blank" href="https://bboys.bandcamp.com/">B Boys</a> and
 			<a target="blank" href="https://flexi.bandcamp.com/album/nothing">Flexi</a>, as well as a solo
 			record as
 			<a target="blank" href="https://giftwrap.bandcamp.com/album/losing-count">Gift Wrap</a>.
