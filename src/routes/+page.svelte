@@ -116,8 +116,9 @@
 		<div class="title"><a href="/">brendon avalos</a></div>
 
 		<div>
-			I'm a designer and strategist based in Los Angeles. I'm working as a designer at <span
-				class="no-icon fictive"
+			Hello and welcome to my small corner of the internet. I'm a designer and strategic thinker who
+			enjoys collaborating, learning and laughing with other humans (live, laugh, love if you feel
+			me). I'm currently clicking away at <span class="no-icon fictive"
 				><a target="blank" href="https://fictivekin.com/">Fictive Kin</a></span
 			>. Before that, I had the pleasure of starting a product design studio from the ground up at
 			<span class="no-icon sanctuary"
