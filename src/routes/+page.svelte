@@ -116,7 +116,7 @@
 		<div class="title"><a href="/">brendon avalos</a></div>
 
 		<div>
-			I'm a digital designer based in Los Angeles. I'm currently a designer at <span
+			I'm a designer and strategist based in Los Angeles. I'm working as a designer at <span
 				class="no-icon fictive"
 				><a target="blank" href="https://fictivekin.com/">Fictive Kin</a></span
 			>. Before that, I had the pleasure of starting a product design studio from the ground up at
