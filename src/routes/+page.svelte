@@ -39,7 +39,7 @@
 		},
 
 		{
-			title: 'Saint James Iced Tea',
+			title: 'Saint James',
 			url: 'https://saintjamesicedtea.com/',
 			description: 'A website for a brand new tea company.',
 			with: 'alright'
