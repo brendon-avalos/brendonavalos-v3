@@ -10,13 +10,6 @@
 		},
 
 		{
-			title: 'New Grove',
-			url: 'https://newgroveconcepts.com/',
-			description: 'A personal portfolio for a talented woodworker in Kingston, New York.',
-			with: ''
-		},
-
-		{
 			title: 'Counter Situations',
 			url: 'https://counter-situations.netlify.app/',
 			description: 'A funky web archive with a focus on exploring different realities.',
@@ -70,6 +63,13 @@
 			url: 'https://www.seaborne.nyc/',
 			description: 'Branding and website for a sustainability company.',
 			with: 'sanctuary'
+		},
+
+		{
+			title: 'New Grove',
+			url: 'https://newgroveconcepts.com/',
+			description: 'A personal portfolio for a talented woodworker in Kingston, New York.',
+			with: ''
 		},
 		{
 			title: 'Spillt',
